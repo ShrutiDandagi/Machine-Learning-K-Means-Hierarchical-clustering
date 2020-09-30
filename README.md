@@ -1,0 +1,2 @@
+# Machine-Learning-K-Means-Hierarchical-clustering
+HELP International is an international humanitarian NGO that is committed to fighting poverty. The CEO of the NGO needs to decide how to use the money strategically and effectively. The significant issues that come while making this decision are mostly related to choosing the countries that are in the direst need of aid. Clustered the countries using some socio-economic and health factors that determine the overall development of the country.
